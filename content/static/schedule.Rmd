@@ -24,7 +24,7 @@ Introductions to class, to each other, to data feminism, to court data, and to R
 #### Data ethics and feminism, data in the judicial domain
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism* (open draft version). MIT Press. [Introduction](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6)
-* Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rode, J., Hoffmann, A.L., Salehi, N., Nakamura, L. (2019). [Feminist Data Manifest-No]()
+* Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rode, J., Hoffmann, A.L., Salehi, N., Nakamura, L. (2019). [Feminist Data Manifest-No](https://www.manifestno.com/)
 * Dave Ress. 2016. ["Blacks more likely to get prison time in plea deals, Hampton Roads court data show."](https://www.dailypress.com/news/dp-nws-sunshine-disparities-20160317-story.html) *Daily Press.*
 * Ben Schoenfeld. 2017. ["Are speed limits not enforced in this area?"](https://virginiacourtdata.medium.com/are-speed-limits-not-enforced-in-this-area-f0c3c594adb4)
 
