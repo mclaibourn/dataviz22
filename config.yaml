@@ -23,7 +23,7 @@ params:
     picture: images/pid_hex2.png
     subtitle: LPPP 5559 Spring 2022
     title: "Public Interest Data: Ethics and Practice"
-  logo: images/pid_hex2.png
+  logo: 
   social:
     github: mclaibourn
     twitter: mclaibourn
