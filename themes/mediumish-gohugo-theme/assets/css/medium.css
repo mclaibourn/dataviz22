@@ -8,7 +8,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #4682B4; /* change from #00ab6b to #4682B4 */
     transition: all 0.2s;
 }
 
@@ -28,7 +28,7 @@ pre {
     white-space: pre;
     overflow: auto;
     background: #fff;
-    border-radius: 0px;
+    border-radius: 0px; 
     line-height: 1.6;
     color: #333;
     margin-bottom: -rem;
@@ -102,7 +102,7 @@ section.recent-posts {
 
 .listfeaturedtag {
     border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem;
+    border-radius: .25rem; 
     transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
 }
 
@@ -128,7 +128,7 @@ section.recent-posts {
     display: block;
     background-position: 38% 22% !important;
     background-origin: border-box !important;
-    border-top-left-radius: .25rem;
+    border-top-left-radius: .25rem; 
     border-bottom-left-radius: .25rem;
 }
 
@@ -152,7 +152,7 @@ section.recent-posts {
 }
 
 .featured-box-img-cover {
-    object-fit: cover;
+    object-fit: cover; 
     width: 100%;
     height: 100%;
     max-height: 100%;
@@ -175,7 +175,7 @@ section.recent-posts {
 .author-thumb {
     width: 40px;
     height: 40px;
-    border-radius: 100%;
+    border-radius: 100%; 
 }
 
 .post-top-meta {
@@ -263,7 +263,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn {
     margin-left: -50px;
     border: 0;
-    border-radius: 30px;
+    border-radius: 30px; 
     cursor: pointer;
 }
 
@@ -295,7 +295,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 40px; /* increased from 30 to 40 */
     margin-right: 5px;
 }
 
@@ -373,7 +373,7 @@ blockquote {
     height: 30px;
     line-height: 30px;
     text-align: center;
-    border-radius: 50%;
+    border-radius: 50%; 
 }
 
 .svgIcon {
@@ -433,7 +433,7 @@ blockquote {
 
     .jumbotron {
         margin-bottom: 0;
-        border-radius: 0;
+        border-radius: 0; 
     }
 
     .listfeaturedtag .card {
@@ -453,7 +453,7 @@ blockquote {
         margin-top: 0px;
         margin-bottom: 0px;
     }
-}
+} 
 
 @media (max-width:1024px) {
     .post-top-meta .col-md-10 {
@@ -498,7 +498,7 @@ ul.tags li {
 ul.tags li a {
     background: rgba(0, 0, 0, .05);
     color: rgba(0, 0, 0, .6);
-    border-radius: 3px;
+    border-radius: 3px; 
     padding: 5px 10px;
 }
 
@@ -524,7 +524,7 @@ ul.tags li a:hover {
     color: #1C9963;
     padding: 3px 10px;
     text-align: center;
-    border-radius: 999em;
+    border-radius: 999em; 
     font-size: 0.85rem;
     display: inline-block;
 }
@@ -534,7 +534,7 @@ ul.tags li a:hover {
     border-color: #1C9963;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
-    border-radius: 30px;
+    border-radius: 30px; 
     font-size: 0.85rem;
     margin-left: 10px;
     font-weight: 600;
@@ -659,7 +659,7 @@ ul.tags li a:hover {
     display: inline-block;
     text-align: center;
     line-height: 22px;
-    border-radius: 50%;
+    border-radius: 50%; 
     font-size: 12px;
 }
 
@@ -768,9 +768,9 @@ iframe {
         margin-top: 3rem;
         padding: 0;
         height: 350px;
-        border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
-        background-size: cover;
+        border-radius: 0;  
+        background-image: url(../images/jumbotron.jpg); 
+        background-size: cover; 
     }
 
     .jumbotron.fortags .col-md-4 {
@@ -786,8 +786,8 @@ iframe {
 .jumbotron.fortags {
     margin-top: 3rem;
     padding: 0;
-    border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
+    border-radius: 0; 
+    background-image: url(../images/jumbotron.jpg); 
     background-size: cover;
 }
 
