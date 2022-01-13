@@ -40,7 +40,6 @@ menu:
       name: Schedule
       url: /static/schedule
       weight: 200
-      weight: 300
     - identifier: resources
       name: Resources
       url: /static/resources
