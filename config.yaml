@@ -1,4 +1,4 @@
-baseURL: "https://publicinterestdata.netlify.app/"
+baseURL: "https://data-ethics-practice.mclaibourn.org/"
 languageCode: en-us
 title: "Public Interest Data: Ethics and Practice"
 theme: mediumish-gohugo-theme
