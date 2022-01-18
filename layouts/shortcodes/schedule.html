@@ -13,7 +13,15 @@
 
             {{- else }}
 
-            <td align="left" style="width:10%;text-align:left">{{ dateFormat "Jan 2" .date  }}</td>
+            {{- if .date_link }}
+            <td align="center" style="width:10%;text-align:center"><a
+                    href="{{ .Site.baseurl }}/static/rnotes/{{ .date_link }}/">
+               {{ dateFormat "Jan 2" .date  }}</a></td>
+
+            {{- else if .date}}
+            <td align="left" style="width:10%;text-align:left">
+              {{ dateFormat "Jan 2" .date  }}</td>
+            {{- end }}
             
             {{- if .material }}
             
