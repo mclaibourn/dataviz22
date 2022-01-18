@@ -14,6 +14,7 @@ We'll add resources here as they become relevant or we find them. Feel free to s
 
 ## Getting Started with R
 
+* [RStudio Cloud Guide](https://rstudio.cloud/learn/guide)
 * [RStudio Primers](https://rstudio.cloud/learn/primers), 
 * [The Tidyverse Style Guide](https://style.tidyverse.org/index.html), suggestions for good coding practices
 * [Stata to R::Cheat Sheet](https://mentalbreaks.rbind.io/posts/stata-to-r/)
