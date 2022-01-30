@@ -55,7 +55,7 @@ Introductions to class, to each other, to data feminism, to court data, and to R
 #### Data ethics and feminism, data in the judicial domain
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 2](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
-* Miren Gutiérrez. 2018. *Data Activism and Social Change.* Palgrave. Chapter 1 or 2 or 3 (tbd)
+* Miren Gutiérrez. 2018. *Data Activism and Social Change.* Palgrave. Chapter 2 excerpt, **pgs. 49-64**.
 * Phil Hernandez, Laura Goren and Chris Wodicka. 2021. ["Set Up to Fail: How Court Fines & Fees Punish Poverty and Harm Black Communities in Virginia."](https://thecommonwealthinstitute.org/research/set-up-to-fail-how-court-fines-fees-punish-poverty-and-harm-black-communities-in-virginia-2/) The Commonwealth Institute.
 
 #### Data practice
