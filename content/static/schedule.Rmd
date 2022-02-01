@@ -35,7 +35,7 @@ Introductions to class, to each other, to data feminism, to court data, and to R
 
 
 
-## January 26 - Data as power, data wrangling
+## January 26 - Data as Power, Data Wrangling
 
 #### Data ethics and feminism, data in the judicial domain
 
@@ -72,7 +72,7 @@ Introductions to class, to each other, to data feminism, to court data, and to R
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 3](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
 * Britta Ricker, Menno-Jan Kraak and Yuri Engelhardt. 2020. ["The Power of Visualization Choices: Different Images of Patterns in Space."](https://doi.org/10.2307/j.ctvzgb8c7.30) In M. Engebretsen & H. Kennedy (Eds.), *Data Visualization in Society.* Amsterdam University Press. 
-* Sandra G. Mayson and Megan T. Stevenson. 2020. ["Misdemeanors by the Numbers."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374571) *Boston College Law Review* 61(3).
+* Kareem L. Jordan and Tina L. Freiburger. 2015. ["The Effect of Race/Ethnicity on Sentencing: Examining Sentence Type, Jail Length, and Prison Length."](https://doi.org/10.1080/15377938.2014.984045) *Journal of Ethnicity in Criminal Justice* 13(3): 179-96
 
 #### Data practice
 
@@ -83,18 +83,17 @@ Introductions to class, to each other, to data feminism, to court data, and to R
 
 
 
-## February 16 - Data Categorization, Data Analysis
+## February 16 - Data Categorization, Data Viz and Wrangling
 
 #### Data ethics and feminism, data in the judicial domain
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 4](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
 * Kevin Guyan. 2021. ["For Queer Communities, Being Counted Has Downsides."](https://www.wired.com/story/queer-data-census-equality/) *Wired.*
-* Kareem L. Jordan and Tina L. Freiburger. 2015. ["The Effect of Race/Ethnicity on Sentencing: Examining Sentence Type, Jail Length, and Prison Length."](https://doi.org/10.1080/15377938.2014.984045) *Journal of Ethnicity in Criminal Justice* 13(3): 179-19
+* Sandra G. Mayson and Megan T. Stevenson. 2020. ["Misdemeanors by the Numbers."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374571) *Boston College Law Review* 61(3).
 
 #### Data practice
 
-* Paul Roback and Julie Legler. 2021. *Beyond Multiple Linear Regression.* Routledge. [Chapter 1](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html), [Chapter 6](https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html)
-* Additional Reference: Bradley Boehmke & Brandon Greenwell. 2021. *Hands-On Machine Learning with R.* Routledge. [Chaper 4](https://bradleyboehmke.github.io/HOML/linear-regression.html), [Chapter 5](https://bradleyboehmke.github.io/HOML/logistic-regression.html)
+* Take some time to review past reference work
 
 
 # Part 2: Data Ethics and Power, Starting Projects
@@ -111,12 +110,11 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 #### Data practice
 
-* Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
-* Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
+* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html)
 
 
 
-## March 2 - Data Context, Data Communication
+## March 2 - Data Context, Data Analysis
 
 #### Data ethics and feminism, data in the judicial domain
 
@@ -126,8 +124,8 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 #### Data practice
 
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html)
-
+* Paul Roback and Julie Legler. 2021. *Beyond Multiple Linear Regression.* Routledge. [Chapter 1](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html), [Chapter 6](https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html)
+* Additional Reference: Bradley Boehmke & Brandon Greenwell. 2021. *Hands-On Machine Learning with R.* Routledge. [Chaper 4](https://bradleyboehmke.github.io/HOML/linear-regression.html), [Chapter 5](https://bradleyboehmke.github.io/HOML/logistic-regression.html)
 
 
 ### Spring Break: March 9 
@@ -135,7 +133,7 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 Spring Break!
 
 
-## March 16 - Race and Counterfactuals
+## March 16 - Race and Counterfactuals, Data Communication
 
 #### Data ethics and feminism, data in the judicial domain
 
@@ -146,9 +144,8 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 #### Data practice
 
-* Claus O. Wilke. 2019. *Fundamentals of Data Visualization.* O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
-* Additional reference: Emil Hvitfeldt’s [GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
-
+* Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
+* Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
 
 
 ## March 23 - Data as Relational
@@ -161,8 +158,8 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 #### Data practice
 
-* David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
-
+* Claus O. Wilke. 2019. *Fundamentals of Data Visualization.* O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
+* Additional reference: Emil Hvitfeldt’s [GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 
 
 ## March 30 - Countermapping and Critical Quantitative Approaches
@@ -191,21 +188,20 @@ In this last stage of the class, we'll spend about 80% of our time working on te
 
 #### Data practice
 
-* Carson Sievert. 2019. *Interactive Web-Based Data Visualization with R, plotly, and shiny.* CRC Press. [Chapter 2](https://plotly-r.com/overview.html), [Chapter 33](https://plotly-r.com/improving-ggplotly.html)
-
+* David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
+* Thomas Lin Pedersen. [patchwork package vignette](https://patchwork.data-imaginist.com/index.html)
 
 
 ## April 20 - Project Work
 
 #### Data practice
 
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 28](https://r4ds.had.co.nz/graphics-for-communication.html)
-
+* Carson Sievert. 2019. *Interactive Web-Based Data Visualization with R, plotly, and shiny.* CRC Press. [Chapter 2](https://plotly-r.com/overview.html), [Chapter 33](https://plotly-r.com/improving-ggplotly.html)
 
 
 ## April 27 - Project Work
 
 #### Data practice
 
-* Thomas Lin Pedersen. [patchwork package vignette](https://patchwork.data-imaginist.com/index.html)
+* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 28](https://r4ds.had.co.nz/graphics-for-communication.html)
 

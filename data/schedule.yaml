@@ -7,16 +7,17 @@ lessons:
     material: "january-19---introductions"
     material_label: "Introductions"
  
-  - title: "Data as power, data wrangling"
+  - title: "Data as Power, Data Wrangling"
     date: 2022-01-26
     material: "january-26---data-as-power-data-wrangling"
-    material_label: "Data as power, data wrangling"
+    material_label: "Data as Power, Data Wrangling"
     annotation: "Annotation Opportunity 1"
     assignment: " "
     assignment_label: "Assignment 1"
 
   - title: "Data Activism, Data Wrangling"
     date: 2022-02-02 
+    date_link: "feb2"
     material: "february-2---data-activism-data-wrangling"
     material_label: "Data Activism, Data Wrangling"
     annotation: "Annotation Opportunity 2"
@@ -31,10 +32,10 @@ lessons:
     assignment: " "
     assignment_label: "Assignment 3"
 
-  - title: "Data Categorization, Data Analysis"
+  - title: "Data Categorization, Data Viz & Wrangling"
     date: 2022-02-16
-    material: "february-16---data-categorization-data-analysis"
-    material_label: "Data Categorization, Data Analysis"
+    material: "february-16---data-categorization-data-viz-and-wrangling"
+    material_label: "Data Categorization, Data Viz & Wrangling"
     annotation: "Annotation Opportunity 4"
     assignment: " "
     assignment_label: "Assignment 4"
@@ -45,17 +46,17 @@ lessons:
     material_label: "Data Roles, Data Practice"
     annotation: "Annotation Opportunity 5"
 
-  - title: "Data Context, Data Communication"
+  - title: "Data Context, Data Analysis"
     date: 2022-03-02
-    material: "march-2---data-context-data-communication"
-    material_label: "Data Context, Data Communication"
+    material: "march-2---data-context-data-analysis"
+    material_label: "Data Context, Data Analysis"
     annotation: "Annotation Opportunity 6"
     assignment_label: "Team Update 1"
 
-  - title: "Race and Counterfactuals"
+  - title: "Race and Counterfactuals, Data Communication"
     date: 2022-03-16
-    material: "march-16---race-and-counterfactuals"
-    material_label: "Race and Counterfactuals"
+    material: "march-16---race-and-counterfactuals-data-communication"
+    material_label: "Race and Counterfactuals, Data Communication"
     annotation: "Annotation Opportunity 7"
     assignment_label: "Identify References"
 
