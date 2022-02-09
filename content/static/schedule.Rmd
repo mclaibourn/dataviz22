@@ -179,7 +179,7 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 # April 6 - Exam
 
-No class; take-home midterm exam due be 5 pm
+No class; take-home midterm exam due be 5 pm Monday, April 11
 
 # Part 3: Project Focus
 In this last stage of the class, we'll spend about 80% of our time working on team projects, and about 20% of our time learning a few more tricks in R.
