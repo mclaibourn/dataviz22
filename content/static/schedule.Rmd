@@ -114,7 +114,7 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 
 
-## March 2 - Data Context, Data Analysis
+## March 2 - Data Context, Data Communication
 
 #### Data ethics and feminism, data in the judicial domain
 
@@ -124,8 +124,8 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 #### Data practice
 
-* Paul Roback and Julie Legler. 2021. *Beyond Multiple Linear Regression.* Routledge. [Chapter 1](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html), [Chapter 6](https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html)
-* Additional Reference: Bradley Boehmke & Brandon Greenwell. 2021. *Hands-On Machine Learning with R.* Routledge. [Chaper 4](https://bradleyboehmke.github.io/HOML/linear-regression.html), [Chapter 5](https://bradleyboehmke.github.io/HOML/logistic-regression.html)
+* Claus O. Wilke. 2019. *Fundamentals of Data Visualization.* O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
+* Additional reference: Emil Hvitfeldt’s [GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
 
 
 ### Spring Break: March 9 
@@ -133,7 +133,7 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 Spring Break!
 
 
-## March 16 - Race and Counterfactuals, Data Communication
+## March 16 - Race and Counterfactuals, Data Analysis
 
 #### Data ethics and feminism, data in the judicial domain
 
@@ -144,8 +144,8 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 #### Data practice
 
-* Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
-* Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
+* Paul Roback and Julie Legler. 2021. *Beyond Multiple Linear Regression.* Routledge. [Chapter 1](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html), [Chapter 6](https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html)
+* Additional Reference: Bradley Boehmke & Brandon Greenwell. 2021. *Hands-On Machine Learning with R.* Routledge. [Chaper 4](https://bradleyboehmke.github.io/HOML/linear-regression.html), [Chapter 5](https://bradleyboehmke.github.io/HOML/logistic-regression.html)
 
 
 ## March 23 - Data as Relational
@@ -158,8 +158,8 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 #### Data practice
 
-* Claus O. Wilke. 2019. *Fundamentals of Data Visualization.* O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
-* Additional reference: Emil Hvitfeldt’s [GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
+* Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
+* Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
 
 
 ## March 30 - Countermapping and Critical Quantitative Approaches

@@ -47,17 +47,17 @@ lessons:
     material_label: "Data Roles, Data Practice"
     annotation: "Annotation Opportunity 5"
 
-  - title: "Data Context, Data Analysis"
+  - title: "Data Context, Data Communication"
     date: 2022-03-02
-    material: "march-2---data-context-data-analysis"
-    material_label: "Data Context, Data Analysis"
+    material: "march-2---data-context-data-communication"
+    material_label: "Data Context, Data Communication"
     annotation: "Annotation Opportunity 6"
     assignment_label: "Team Update 1"
 
-  - title: "Race and Counterfactuals, Data Communication"
+  - title: "Race and Counterfactuals, Data Analysis"
     date: 2022-03-16
-    material: "march-16---race-and-counterfactuals-data-communication"
-    material_label: "Race and Counterfactuals, Data Communication"
+    material: "march-16---race-and-counterfactuals-data-analysis"
+    material_label: "Race and Counterfactuals, Data Analysis"
     annotation: "Annotation Opportunity 7"
     assignment_label: "Identify References"
 
