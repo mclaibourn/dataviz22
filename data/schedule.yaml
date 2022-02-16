@@ -35,6 +35,7 @@ lessons:
 
   - title: "Data Categorization, Data Viz & Wrangling"
     date: 2022-02-16
+    date_link: "feb16"
     material: "february-16---data-categorization-data-viz-and-wrangling"
     material_label: "Data Categorization, Data Viz & Wrangling"
     annotation: "Annotation Opportunity 4"
