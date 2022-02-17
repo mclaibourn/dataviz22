@@ -106,7 +106,9 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 5](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3)
 * Roderic Crooks and Morgan E. Currie. 2021. ["Numbers Will Not Save Us: Agonistic Data Practices."](https://doi.org/10.1080/01972243.2021.1920081) *The Information Society* 37.
-* Allison P. Harris, Elliott Ash and Jeffrey Fagan. 2020. ["Fiscal Pressures and Discriminatory Policing: Evidence from Traffic Stops in Missouri."](https://doi.org/10.1017/rep.2020.10) *Journal of Race, Ethnicity, and Politics* 5: 40-80.
+* Allison Stashko and Haritz Garro. 2021. ["Prosecutor Elections
+and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6I0RRE-sGBi0a_X/view) Working Paper.
+
 
 #### Data practice
 
@@ -120,7 +122,7 @@ In this stage of the class, we'll spend about 40% of our time diving into data e
 
 * Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 6](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
 * Inioluwa Deborah Raji. 2020. ["The Discomfort of Death Counts: Mourning through the Distorted Lens of Reported COVID-19 Death Data."](https://doi.org/10.1016/j.patter.2020.100066) *Patterns* 1(4).
-*  Gwen Prowse, Vesla M. Weaver, Tracey L. Meares. 2020. ["The State from Below: Distorted Responsiveness in Policed Communities."](https://doi.org/10.1177%2F1078087419844831) *Urban Affairs Review* 56(5): 1423-1471.
+* Allison P. Harris, Elliott Ash and Jeffrey Fagan. 2020. ["Fiscal Pressures and Discriminatory Policing: Evidence from Traffic Stops in Missouri."](https://doi.org/10.1017/rep.2020.10) *Journal of Race, Ethnicity, and Politics* 5: 40-80.
 
 #### Data practice
 
@@ -139,8 +141,7 @@ Spring Break!
 
 * Tukufu Zuberi and Eduardo Bonilla-Silva. 2008. *White Logic, White Methods: Racism and Methodology.* Rowman & Littlefield. Chapter 7.  
 * Lily Hu. 2020. [“Direct Effects: How Should We Measure Racial Discrimination.”](https://www.phenomenalworld.org/analysis/direct-effects/) Phenomenal World Post.
-* Allison Stashko and Haritz Garro. 2021. ["Prosecutor Elections
-and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6I0RRE-sGBi0a_X/view) Working Paper.
+* Substantive reading TBA
 
 #### Data practice
 
@@ -154,7 +155,7 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 * Abeba Birhane. 2021. "Algorithmic Injustice: A Relational Ethics Approach." *Patterns* 2(2). 
 * Jonathan Schwabish and Alice Feng. 2021. [Do No Harm Guide: Applying Equity Awareness in Data Visualization.](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf) Urban Institute.
-* Substantive reading TBA
+* Michelle Alexander. 2020. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness.* The New Press. Preface to the Tenth Anniversary Edition. (The full book is available as an e-book through the UVA Library.)
 
 #### Data practice
 
@@ -168,7 +169,8 @@ and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6
 
 * Claire E. Crawford, Sean Demack, David Gillborn, and Paul Warmington. 2019. "Quants & Crits: Using Numbers for Social Justice (Or, How Not to be Lied to With Statistics)." In *Understanding Critical Race Research Methods and Methodologies*, Jessica T. DeCuir-Gunby, Thandeka K. Chapman, Paul A. Schutz (eds). Routledge.
 * Derek H. Alderman and Joshua F.J. Inwood. 2021. ["How Black Cartographers Put Racism on the Map of America."](https://theconversation.com/how-black-cartographers-put-racism-on-the-map-of-america-155081) The Conversation.
-* Substantive reading TBA
+*  Gwen Prowse, Vesla M. Weaver, Tracey L. Meares. 2020. ["The State from Below: Distorted Responsiveness in Policed Communities."](https://doi.org/10.1177%2F1078087419844831) *Urban Affairs Review* 56(5): 1423-1471.
+
 
 #### Data practice
 
