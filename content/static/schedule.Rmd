@@ -141,7 +141,7 @@ Spring Break!
 
 * Tukufu Zuberi and Eduardo Bonilla-Silva. 2008. *White Logic, White Methods: Racism and Methodology.* Rowman & Littlefield. Chapter 7.  
 * Lily Hu. 2020. [“Direct Effects: How Should We Measure Racial Discrimination.”](https://www.phenomenalworld.org/analysis/direct-effects/) Phenomenal World Post.
-* Substantive reading TBA
+* Michelle Alexander. 2020. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness.* The New Press. Preface to the Tenth Anniversary Edition. (The full book is available as an e-book through the UVA Library.)
 
 #### Data practice
 
@@ -155,13 +155,13 @@ Spring Break!
 
 * Abeba Birhane. 2021. "Algorithmic Injustice: A Relational Ethics Approach." *Patterns* 2(2). 
 * Jonathan Schwabish and Alice Feng. 2021. [Do No Harm Guide: Applying Equity Awareness in Data Visualization.](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf) Urban Institute.
-* Michelle Alexander. 2020. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness.* The New Press. Preface to the Tenth Anniversary Edition. (The full book is available as an e-book through the UVA Library.)
+*  Gwen Prowse, Vesla M. Weaver, Tracey L. Meares. 2020. ["The State from Below: Distorted Responsiveness in Policed Communities."](https://doi.org/10.1177%2F1078087419844831) *Urban Affairs Review* 56(5): 1423-1471.
+
 
 #### Data practice
 
 * Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
 * Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
-
 
 ## March 30 - Countermapping and Critical Quantitative Approaches
 
@@ -169,7 +169,6 @@ Spring Break!
 
 * Claire E. Crawford, Sean Demack, David Gillborn, and Paul Warmington. 2019. "Quants & Crits: Using Numbers for Social Justice (Or, How Not to be Lied to With Statistics)." In *Understanding Critical Race Research Methods and Methodologies*, Jessica T. DeCuir-Gunby, Thandeka K. Chapman, Paul A. Schutz (eds). Routledge.
 * Derek H. Alderman and Joshua F.J. Inwood. 2021. ["How Black Cartographers Put Racism on the Map of America."](https://theconversation.com/how-black-cartographers-put-racism-on-the-map-of-america-155081) The Conversation.
-*  Gwen Prowse, Vesla M. Weaver, Tracey L. Meares. 2020. ["The State from Below: Distorted Responsiveness in Policed Communities."](https://doi.org/10.1177%2F1078087419844831) *Urban Affairs Review* 56(5): 1423-1471.
 
 
 #### Data practice
