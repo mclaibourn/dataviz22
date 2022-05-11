@@ -5,15 +5,16 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(emojifont)
 ```
 
 As part of a larger project to make de-identified court case information from Virginia's State Court system more accessible for researchers, our class undertook a series of projects to help us better understand the court data -- what it contains and what is missing; the meaning, uses, and limitations of key variables and case information -- while exploring questions around justice and equity. Throughout the semester, we used these projects to practice applying principles of data ethics and data feminism. 
 
 We intend to build on these first efforts and hope they will serve as examples of the kinds of outcomes and processes researchers, journalists, and advocates could address with these data. We provide the code for all of our work both within the project pages and on [GitHub](https://github.com/mclaibourn/va_court_projects).
 
-* [Analyzing Vehicular Court Case Data in Central Virginia](https://mclaibourn.github.io/va_court_projects/Melly_Rockwood_Shekleton_FinalProject.html), Erin, Will, and Caitlin
-* [Traffic Fines and Local Governmen Revenue fom Fines](https://mclaibourn.github.io/va_court_projects/Burke_Griffiths_Schneider_FinalProject.html), Max, Hallie, and Dylan
-* [Examining Probation in Four VA Metro Areas for 2020](https://mclaibourn.github.io/va_court_projects/Brock_Pfeiffer_FinalProject.html), Julian and Anya
-* [Disparate Outcomes with Mandatory Minimums](https://mclaibourn.github.io/va_court_projects/Ackley_Breiner_Leonard_FinalProject.html), Morgan, Ashley, and Kevin
+* `r emoji('vertical_traffic_light')` [Analyzing Vehicular Court Case Data in Central Virginia](https://mclaibourn.github.io/va_court_projects/Melly_Rockwood_Shekleton_FinalProject.html), Erin, Will, and Caitlin
+* `r emoji('oncoming_police_car')` [Traffic Fines and Local Government Revenue fom Fines](https://mclaibourn.github.io/va_court_projects/Burke_Griffiths_Schneider_FinalProject.html), Max, Hallie, and Dylan
+* `r emoji('unlock')` [Examining Probation in Four VA Metro Areas for 2020](https://mclaibourn.github.io/va_court_projects/Brock_Pfeiffer_FinalProject.html), Julian and Anya
+* `r emoji('classical_building')` [Disparate Outcomes with Mandatory Minimums](https://mclaibourn.github.io/va_court_projects/Ackley_Breiner_Leonard_FinalProject.html), Morgan, Ashley, and Kevin
 
 Questions? Contact Michele Claibourn (mclaibourn@virginia.edu)
