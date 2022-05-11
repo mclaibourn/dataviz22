@@ -7,11 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A gallery of the final visualization projects created by the class!
+As part of a larger project to make de-identified court case information from Virginia's State Court system more accessible for researchers, our class undertook a series of projects to help us better understand the data -- what it contains and what is missing; the meaning, uses, and limitations of key variables and case information -- while exploring questions around justice and equity. Throughout the semester, we used these projects to practice applying principles of data ethics, data feminism, and data justice. 
 
-* [Climate Change and Resilience in El Salvador](../final/cox_finalproject/), Katie Cox
-* [Built Environment Equity](../final/erzen_finalproject/), David Erzen
-* [Analyzing Solar Energy in the United States](../final/melly_finalproject/), Erin Melly
-* [Exploring Gender, Education, and Agriculture in Honduras](../final/mulder_finalproject/), Katie Mulder
-* Bird Diets (too large to upload), Lizzy Padhi
-* [Milk with Dignity Hotline](../final/stephens_finalproject/), Maya Stephens
+We intend to build on these first efforts and hope they will serve as examples of the kinds of outcomes and processes researchers, journalists, and advocates could address with these data and we provide the code for all of our work both within the project pages and on GitHub.
+
+* [Analyzing Vehicular Court Case Data in Central Virginia](https://mclaibourn.github.io/va_court_projects/Melly_Rockwood_Shekleton_FinalProject.html), Erin, Will, and Caitlin
+* [Traffic Fines and Local Governmen Revenue fom Fines](https://mclaibourn.github.io/va_court_projects/Burke_Griffiths_Schneider_FinalProject.html), Max, Hallie, and Dylan
+* [Examining Probation in Four VA Metro Areas for 2020](https://mclaibourn.github.io/va_court_projects/Brock_Pfeiffer_FinalProject.html), Julian and Anya
+* [Disparate Outcomes with Mandatory Minimums](https://mclaibourn.github.io/va_court_projects/Ackley_Breiner_Leonard_FinalProject.html), Morgan, Ashley, and Kevin
+
+Questions? Contact Michele Claibourn (mclaibourn@virginia.edu)

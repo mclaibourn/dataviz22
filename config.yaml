@@ -32,34 +32,38 @@ params:
 
 menu:
   main:
+    - identifier: projects
+      name: Final Projects
+      url: /static/projects
+      weight: 100
     - identifier: syllabus
       name: Syllabus
       url: /static/syllabus
-      weight: 100
+      weight: 200
     - identifier: schedule
       name: Schedule
       url: /static/schedule
-      weight: 200
+      weight: 300
     - identifier: resources
       name: Resources
       url: /static/resources
-      weight: 300
+      weight: 400
     - identifier: slack
       name: Class Slack
       url: https://data-ethics-practice.slack.com
-      weight: 400
-    - identifer: perusall
-      name: Perusall
-      url: https://perusall.com/
       weight: 500
+    # - identifer: perusall
+    #   name: Perusall
+    #   url: https://perusall.com/
+    #   weight: 600
     - identifier: rstudio
       name: RStudio Cloud
       url: https://rstudio.cloud/
-      weight: 600
+      weight: 700
     - identifier: policy
       name: Batten Policies
       url: /static/policy
-      weight: 700
+      weight: 800
 
 markup:
   goldmark:
