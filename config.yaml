@@ -1,4 +1,4 @@
-baseURL: "https://dataviz22.mclaibourn.org/"
+baseURL: "https://datavis22.netlify.app/"
 languageCode: en-us
 title: "Data Visualization in R"
 theme: mediumish-gohugo-theme
