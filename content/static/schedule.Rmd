@@ -14,195 +14,82 @@ knitr::opts_chunk$set(echo = TRUE)
 `r blogdown::shortcode("schedule")`
 
 
-# Part 1: Learning R, Data Ethics and Power
-In this stage of the class, we'll spend about 50% of our time (in and out of class) focused on learning R and the administrative data we're working with, about 40% of our time diving into data ethics and power, and about 10% of our time thinking about the final projects.
+Bring a laptop with R and RStudio installed!
 
-## January 19 - Introductions
+## August 24
+Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
 
-Introductions to class, to each other, to data feminism, to court data, and to R -- bring a laptop with R and RStudio installed!
+*Key Reading*
 
-#### Data ethics and feminism, data in the judicial domain
+* Jonathan Schwabish. 2021. Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks. Columbia University Press. [Introduction, Chapter 1](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=6181760)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 1](https://clauswilke.com/dataviz/introduction.html), [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html)
 
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism* (open draft version). MIT Press. [Introduction](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6)
-* Cifor, M., Garcia, P., Cowan, T.L., Rault, J., Sutherland, T., Chan, A., Rode, J., Hoffmann, A.L., Salehi, N., Nakamura, L. (2019). [Feminist Data Manifest-No](https://www.manifestno.com/)
-* Dave Ress. 2016. ["Blacks more likely to get prison time in plea deals, Hampton Roads court data show."](https://www.dailypress.com/news/dp-nws-sunshine-disparities-20160317-story.html) *Daily Press.*
-* Ben Schoenfeld. 2017. ["Are speed limits not enforced in this area?"](https://virginiacourtdata.medium.com/are-speed-limits-not-enforced-in-this-area-f0c3c594adb4)
+*Reference Reading*
 
-#### Data practice
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html), [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Chapter 5](https://r4ds.had.co.nz/transform.html)
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 2](https://socviz.co/gettingstarted.html#gettingstarted), [Chapter 3](https://socviz.co/makeplot.html#makeplot)
 
-* James Scott. 2021. *Data Science in R: A Gentle Introduction.* [Chapter 1](https://bookdown.org/jgscott/DSGI/getting-started-in-r.html), [Chapter 2](https://bookdown.org/jgscott/DSGI/lesson_data.html)
-* Additional Reference: Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html)
 
+## August 31
+Visualization principles; visualizing counts, proportions, and distributions
 
+*Key Reading*
 
-## January 26 - Data as Power, Data Wrangling
+* Alberto Cairo. 2016. The Truthful Art: Data, Charts, and Maps for Communication. New Riders. [Chapter 2](https://search.lib.virginia.edu/sources/uva_library/items/u8545323)
+* Jonathan Schwabish. 2021. Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks. Columbia University Press. [Chapter 2](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=6181760)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 5](https://clauswilke.com/dataviz/directory-of-visualizations.html)
 
-#### Data ethics and feminism, data in the judicial domain
+*Reference Reading*
 
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 1](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4)
-* Nick Barrowman. Summer/Fall 2018. [“Why Data Is Never Raw.”](https://www.thenewatlantis.com/wp-content/uploads/legacy-pdfs/20181001_TNA56Barrowman.pdf) *The New Atlantis*: 56, pp. 129-135.
-* Emma Pierson, Camelia Simoiu, Jan Overgoor, Sam Corbett-Davies1, Daniel Jenson, Amy Shoemaker, Vignesh Ramachandran, Phoebe Barghouty, Cheryl Phillips, Ravi Shroff and Sharad Goel. 2020. ["A large-scale analysis of racial disparities in police stops across the United States."](https://5harad.com/papers/100M-stops.pdf) *Nature Human Behaviour* 4: 736-745.
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 12](https://r4ds.had.co.nz/tidy-data.html)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 6](https://clauswilke.com/dataviz/visualizing-amounts.html), [Chapter 7](https://clauswilke.com/dataviz/histograms-density-plots.html), [Chapter 10](https://clauswilke.com/dataviz/visualizing-proportions.html) (Note, all of Wilke’s code is on his [github page](https://github.com/clauswilke/dataviz)!
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 4](https://socviz.co/groupfacettx.html#groupfacettx)
 
-#### Data practice
 
-* Rafael A. Irizarry. 2021. *Introduction to Data Science.* [Chapter 2](https://rafalab.github.io/dsbook/r-basics.html), [Chapter 3](https://rafalab.github.io/dsbook/programming-basics.html) 
-* Additional Reference: Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 5](https://r4ds.had.co.nz/transform.html)
+## September 7
+Using color; tidy data; joining data; visualizing relationships; R markdown and communication
 
+*Key Reading*
 
+* Eva Murray and Andy Kriebel. 2018. #MakeoverMonday: Improving How We Visualize and Analyze Data, One Chart at a Time. John Wiley & Sons. [Chapter 8](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=5554190)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
 
-## February 2 - Data Activism, Data Wrangling
+*Reference Reading*
 
-#### Data ethics and feminism, data in the judicial domain
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 12](https://clauswilke.com/dataviz/visualizing-associations.html), [Chapter 16](https://clauswilke.com/dataviz/visualizing-uncertainty.html), [Chapter 21](https://clauswilke.com/dataviz/multi-panel-figures.html)
+* Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 13](https://r4ds.had.co.nz/relational-data.html), [Chapter 27](https://r4ds.had.co.nz/r-markdown.html), [Chapter 29](https://r4ds.had.co.nz/r-markdown-formats.html)
 
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 2](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
-* Miren Gutiérrez. 2018. *Data Activism and Social Change.* Palgrave. Chapter 3 excerpt, **pgs. 49-64**.
-* Phil Hernandez, Laura Goren and Chris Wodicka. 2021. ["Set Up to Fail: How Court Fines & Fees Punish Poverty and Harm Black Communities in Virginia."](https://thecommonwealthinstitute.org/research/set-up-to-fail-how-court-fines-fees-punish-poverty-and-harm-black-communities-in-virginia-2/) The Commonwealth Institute.
+## September 14
+Annotating and combining figures, Space and maps
 
-#### Data practice
+*Key Reading*
 
-* Rafael A. Irizarry. 2021. *Introduction to Data Science.* [Chapter 21](https://rafalab.github.io/dsbook/reshaping-data.html), [Chapter 22](https://rafalab.github.io/dsbook/joining-tables.html) 
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 27](https://r4ds.had.co.nz/r-markdown.html)
-* Additional Reference: Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 12](https://r4ds.had.co.nz/tidy-data.html), [Chapter 13](https://r4ds.had.co.nz/relational-data.html)
+* Jonathan Schwabish. 2021. Better Data Visualizations : A Guide for Scholars, Researchers, and Wonks. Columbia University Press. [Chapter 7](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=6181760)
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 15](https://clauswilke.com/dataviz/geospatial-data.html)
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 5](https://socviz.co/workgeoms.html#workgeoms)
 
+*Reference Reading*
 
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 7](https://socviz.co/maps.html#maps)
+* [Leaflet for R](https://rstudio.github.io/leaflet/): Introduction, The Map Widget, Basemaps, Markers, Popups and Labels, Colors, Legends, Choropleths
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 20](https://clauswilke.com/dataviz/redundant-coding.html)
 
-## February 9 - Data Perspectives, Data Visualization
 
-#### Data ethics and feminism, data in the judicial domain
+## September 21
+Peer presentations! Enhancing and customizing visuals
 
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 3](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
-* Britta Ricker, Menno-Jan Kraak and Yuri Engelhardt. 2020. ["The Power of Visualization Choices: Different Images of Patterns in Space."](https://doi.org/10.2307/j.ctvzgb8c7.30) In M. Engebretsen & H. Kennedy (Eds.), *Data Visualization in Society.* Amsterdam University Press. 
-* Kareem L. Jordan and Tina L. Freiburger. 2015. ["The Effect of Race/Ethnicity on Sentencing: Examining Sentence Type, Jail Length, and Prison Length."](https://doi.org/10.1080/15377938.2014.984045) *Journal of Ethnicity in Criminal Justice* 13(3): 179-96
+*Key Reading*
 
-#### Data practice
+* Catherine D’Ignazio and Laura Klein. 2020. Data Feminism (open draft version). MIT Press. [Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5)
+* Cole Nussbaumer Knaflic. 2015. Storytelling with Data: A Data Visualization Guide for Business Professionals. John Wiley & Sons. [Chapter 6](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=4187267)
+* Jonathan Schwabish. 2021. Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks. Columbia University Press. [Chapter 13](https://ebookcentral-proquest-com.proxy01.its.virginia.edu/lib/uva/reader.action?docID=6181760)
 
-* James Scott. 2021. *Data Science in R: A Gentle Introduction.* [Chapter 4](https://bookdown.org/jgscott/DSGI/plots.html)
-* Rafael A. Irizarry. 2021. *Introduction to Data Science.* [Chapter 7](https://rafalab.github.io/dsbook/ggplot2.html)
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)
-* Additional Reference: Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 3](https://r4ds.had.co.nz/data-visualisation.html)
+*Reference Reading*
 
-
-
-## February 16 - Data Categorization, Data Viz and Wrangling
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 4](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
-* Kevin Guyan. 2021. ["For Queer Communities, Being Counted Has Downsides."](https://www.wired.com/story/queer-data-census-equality/) *Wired.*
-* Sandra G. Mayson and Megan T. Stevenson. 2020. ["Misdemeanors by the Numbers."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374571) *Boston College Law Review* 61(3).
-
-#### Data practice
-
-* Take some time to review past reference work
-
-
-# Part 2: Data Ethics and Power, Starting Projects
-In this stage of the class, we'll spend about 40% of our time diving into data ethics and power, about 40% of our time defining and starting team projects, and about 20% of our time focused on developing skills in R.
-
-
-## February 23 - Data Roles, Data Practice
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 5](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3)
-* Roderic Crooks and Morgan E. Currie. 2021. ["Numbers Will Not Save Us: Agonistic Data Practices."](https://doi.org/10.1080/01972243.2021.1920081) *The Information Society* 37.
-* Allison Stashko and Haritz Garro. 2021. ["Prosecutor Elections
-and Police Accountability."](https://drive.google.com/file/d/1LwnAsRgrsZoF_PM5e6I0RRE-sGBi0a_X/view) Working Paper.
-
-
-#### Data practice
-
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html)
-
-
-
-## March 2 - Data Context, Data Communication
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Catherine D'Ignazio and Laura Klein. 2019. *Data Feminism.* MIT Press. [Chapter 6](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3)
-* Inioluwa Deborah Raji. 2020. ["The Discomfort of Death Counts: Mourning through the Distorted Lens of Reported COVID-19 Death Data."](https://doi.org/10.1016/j.patter.2020.100066) *Patterns* 1(4).
-* Allison P. Harris, Elliott Ash and Jeffrey Fagan. 2020. ["Fiscal Pressures and Discriminatory Policing: Evidence from Traffic Stops in Missouri."](https://doi.org/10.1017/rep.2020.10) *Journal of Race, Ethnicity, and Politics* 5: 40-80.
-
-#### Data practice
-
-* Claus O. Wilke. 2019. *Fundamentals of Data Visualization.* O’Reilly. [Chapter 4](https://clauswilke.com/dataviz/color-basics.html), [Chapter 19](https://clauswilke.com/dataviz/color-pitfalls.html)
-* Additional reference: Emil Hvitfeldt’s [GitHub of R Color Palettes](https://github.com/EmilHvitfeldt/r-color-palettes)
-
-
-### Spring Break: March 9 
-
-Spring Break!
-
-
-## March 16 - Race and Counterfactuals, Data Analysis
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Tukufu Zuberi and Eduardo Bonilla-Silva. 2008. *White Logic, White Methods: Racism and Methodology.* Rowman & Littlefield. Chapter 7.  
-* Lily Hu. 2020. [“Direct Effects: How Should We Measure Racial Discrimination.”](https://www.phenomenalworld.org/analysis/direct-effects/) Phenomenal World Post.
-* Michelle Alexander. 2020. *The New Jim Crow: Mass Incarceration in the Age of Colorblindness.* The New Press. Preface to the Tenth Anniversary Edition. (The full book is available as an e-book through the UVA Library.)
-
-#### Data practice
-
-* Paul Roback and Julie Legler. 2021. *Beyond Multiple Linear Regression.* Routledge. [Chapter 1](https://bookdown.org/roback/bookdown-BeyondMLR/ch-MLRreview.html), [Chapter 6](https://bookdown.org/roback/bookdown-BeyondMLR/ch-logreg.html)
-* Additional Reference: Bradley Boehmke & Brandon Greenwell. 2021. *Hands-On Machine Learning with R.* Routledge. [Chaper 4](https://bradleyboehmke.github.io/HOML/linear-regression.html), [Chapter 5](https://bradleyboehmke.github.io/HOML/logistic-regression.html)
-
-
-## March 23 - Data as Relational
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Abeba Birhane. 2021. "Algorithmic Injustice: A Relational Ethics Approach." *Patterns* 2(2). 
-* Jonathan Schwabish and Alice Feng. 2021. [Do No Harm Guide: Applying Equity Awareness in Data Visualization.](https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf) Urban Institute.
-*  Gwen Prowse, Vesla M. Weaver, Tracey L. Meares. 2020. ["The State from Below: Distorted Responsiveness in Policed Communities."](https://doi.org/10.1177%2F1078087419844831) *Urban Affairs Review* 56(5): 1423-1471.
-
-
-#### Data practice
-
-* Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 6](https://socviz.co/modeling.html#modeling)
-* Lüdecke D. 2018. [ggeffects package reference](https://strengejacke.github.io/ggeffects/index.html) 
-
-## March 30 - Countermapping and Critical Quantitative Approaches
-
-#### Data ethics and feminism, data in the judicial domain
-
-* Claire E. Crawford, Sean Demack, David Gillborn, and Paul Warmington. 2019. "Quants & Crits: Using Numbers for Social Justice (Or, How Not to be Lied to With Statistics)." In *Understanding Critical Race Research Methods and Methodologies*, Jessica T. DeCuir-Gunby, Thandeka K. Chapman, Paul A. Schutz (eds). Routledge.
-* Derek H. Alderman and Joshua F.J. Inwood. 2021. ["How Black Cartographers Put Racism on the Map of America."](https://theconversation.com/how-black-cartographers-put-racism-on-the-map-of-america-155081) The Conversation.
-
-
-#### Data practice
-
-* Mel Moreno and Mathieu Basille. 2018. "Drawing Beautiful Maps Programmatically with R, sf and ggplot2 - [Part 1: Basics](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html), [Part 2: Layers](https://r-spatial.org/r/2018/10/25/ggplot2-sf-2.html), and [Part 3: Layouts](https://r-spatial.org/r/2018/10/25/ggplot2-sf-3.html)." r-spatial.
-* Additional reference: Kieran Healy. 2018. *Data Visualization: A Practical Introduction.* Princeton University Press. [Chapter 7](https://socviz.co/maps.html#maps)
-
-
-
-# April 6 - Exam
-
-No class; take-home midterm exam due be 5 pm Monday, April 11
-
-# Part 3: Project Focus
-In this last stage of the class, we'll spend about 80% of our time working on team projects, and about 20% of our time learning a few more tricks in R.
-
-## April 13 - Project Work
-
-#### Data practice
-
+* Claus O. Wilke. 2019. Fundamentals of Data Visualization. O’Reilly. [Chapter 22](https://clauswilke.com/dataviz/figure-titles-captions.html), [Chapter 23](https://clauswilke.com/dataviz/balance-data-context.html), [Chapter 24](https://clauswilke.com/dataviz/small-axis-labels.html), [Chapter 29](https://clauswilke.com/dataviz/telling-a-story.html)
+* Kieran Healy. 2018. Data Visualization: A Practical Introduction. Princeton University Press. [Chapter 8](https://socviz.co/refineplots.html#refineplots)
 * David Keyes. 2019. [“How to Make Beautiful Tables in R.”](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/) R for the Rest of Us.
-* Thomas Lin Pedersen. [patchwork package vignette](https://patchwork.data-imaginist.com/index.html)
 
 
-## April 20 - Project Work
-
-#### Data practice
-
-* Carson Sievert. 2019. *Interactive Web-Based Data Visualization with R, plotly, and shiny.* CRC Press. [Chapter 2](https://plotly-r.com/overview.html), [Chapter 33](https://plotly-r.com/improving-ggplotly.html)
-
-
-## April 27 - Project Work
-
-#### Data practice
-
-* Hadley Wickham and Garrett Grolemund. 2017. *R for Data Science.* O’Reilly. [Chapter 28](https://r4ds.had.co.nz/graphics-for-communication.html)
-
+## September 28
+Submit Final Projects!

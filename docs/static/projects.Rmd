@@ -1,0 +1,16 @@
+---
+title: "Final Projects"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+As part of a larger project to make de-identified court case information from Virginia's State Court system more accessible for researchers, our class undertook a series of projects to help us better understand the data -- what it contains and what is missing; the meaning, uses, and limitations of key variables and case information -- while exploring questions around justice and equity. Throughout the semester, we used these projects to practice applying principles of data ethics, data feminism, and data justice. 
+
+We intend to build on these first efforts and hope they will serve as examples of the kinds of outcomes and processes researchers, journalists, and advocates could address with these data and we provide the code for all of our work both within the project pages and on GitHub.
+
+* Add project links here
+
+Questions? Contact Michele Claibourn (mclaibourn@virginia.edu)

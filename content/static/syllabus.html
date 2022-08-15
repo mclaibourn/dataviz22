@@ -1,106 +1,53 @@
 ---
 title: "Syllabus"
-output:
-  blogdown::html_page:
-    toc: true
-    toc_depth: 3
+output: html_document
 ---
 
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
-<div id="TOC">
-<ul>
-<li><a href="#overview-and-goals">Overview and Goals</a></li>
-<li><a href="#spring-2022-project">Spring 2022 Project</a></li>
-<li><a href="#about-our-work">About Our Work</a>
-<ul>
-<li><a href="#r-rstudio-and-rstudio-cloud">R, RStudio, and RStudio Cloud</a></li>
-<li><a href="#materials">Materials</a></li>
-<li><a href="#getting-help-and-the-class-slack">Getting Help and the Class Slack</a></li>
-</ul></li>
-<li><a href="#evaluation-of-our-work">Evaluation of Our Work</a>
-<ul>
-<li><a href="#reading-annotations-20">Reading Annotations, 20%</a></li>
-<li><a href="#individual-datar-assignments-20">Individual Data/R Assignments, 20%</a></li>
-<li><a href="#midterm-exam-10">Midterm exam, 10%</a></li>
-<li><a href="#team-assignments-40">Team Assignments, 40%</a></li>
-<li><a href="#collaborative-learning-10">Collaborative Learning, 10%</a></li>
-</ul></li>
-<li><a href="#pre-class-tasks">Pre-Class Tasks</a></li>
-</ul>
-</div>
 
 <div id="overview-and-goals" class="section level2">
 <h2>Overview and Goals</h2>
-<p>This course is intended to provide students experience with data science within a framework of data ethics in service of equity-oriented public policy. Our primary goals are:</p>
+<p>Data is everywhere and as data becomes increasingly prevalent, so does interest in using data to improve decision making and policy. But data doesn’t speak for itself. One of the best ways to explore, understand, present and communicate about data is with visualization, mapping data values into quantifiable features to generate a graphic or chart.</p>
+<p>This short course is an initial introduction to the principles and tools of data visualization, with some side trips into data wrangling and processing because, unfortunately, most data in the world won’t be ready for visualization in its initial form.</p>
+<p>By the end of our five weeks, you will</p>
 <ul>
-<li>Make progress on a project that advances social justice and policy understanding in collaboration with a community partner, and have a project you can point to as an example of your work.</li>
-<li>Practice working with real data (that is, messy data resulting from policy administration) to answer pressing questions with attention to the moral and ethical implications of our work. This includes finding, cleaning, and understanding data; exploring, analyzing, modeling data; visualizing, contextualizing, and communicating data; with care and humility and respect for the affected partners and communities throughout.</li>
-<li>Develop experience in data workflows that support ethical data science, including processes for working collaboratively, openly, inclusively, and reproducibly.</li>
+<li>Know more about preparing data in R</li>
+<li>Understand key principles of data and visual design</li>
+<li>Create well-designed data visualizations with R</li>
+<li>Communicate about visualizations in dynamic reports</li>
+<li>Gain exposure to a variety of resources for continued learning</li>
 </ul>
 </div>
-<div id="spring-2022-project" class="section level2">
-<h2>Spring 2022 Project</h2>
-<p>Our Spring 2021 partner is UVA Legal Data Lab. We have been working with them to develop a platform to make anonymized court record data from the Virginia Judiciary more accessible for use by researchers and advocates to better understand Virginia’s judicial system and the potential inequities in the disposition of cases brought before the courts in both the criminal and civil arenas.</p>
-<p>As the Legal Data Lab team works to launch and build an interface for the community to find, query, and use this valuable database, we will undertake some initial analysis of subsets of this data to create a series of policy-oriented data stories to accompany the database platform. These will serve as examples of the types of research the court data enables, provide models of reproducible analysis, and be an educational resource for others wishing to use the data platform for analysis and advocacy.</p>
+<div id="requirements-and-expectations" class="section level2">
+<h2>Requirements and Expectations</h2>
+<p><strong>Problem Sets (40%)</strong>: You’ll complete four problem sets, a set of tasks that includes a mix of exercises to practice applying the concepts and ideas from class and steps toward your visualization project.</p>
+<p><strong>Visualization Project, Presentation, and Posting (40%)</strong>: The primary goal is for you to learn how to create your own data visualizations and communicate effectively about data. For the visualization project you will identify a data source and research question, conduct an exploratory analysis, clean and prep the data, create polished figures, and write a brief report.</p>
+<p><strong>Collaborative Learning (20%)</strong>: Learning new things is tough. Supportive colleagues can make it easier. For this reason, you will be evaluated based on the extent to which you help each other learn in our in-class practice and in our class slack space.</p>
 </div>
-<div id="about-our-work" class="section level2">
-<h2>About Our Work</h2>
-<p>In this class, we’ll be learning how to use data to answer important and public-minded questions with an emphasis on justice and equity. You don’t need to be an expert in statistics or R or visualization or coding coming in, the project will provide opportunities to develop these skills further. Good data-oriented work comes from the collaboration of people with diverse talents, perspectives, and expertise. We need individuals interested in data wrangling and analysis, working in R, and visualizing data effectively; but we also need people with an understanding or interest in the civil and criminal legal systems, who can ask probing questions and think creatively; and members who can help teams work better and keep projects moving, who can dig into a new substantive area to synthesize information, and who can communicate about our work effectively and help us convey people-centered stories and explanations. That doesn’t mean everyone won’t be responsible for learning about and contributing to each step of the project, but you may find that at some points you are more of a learner and at other points you are more of a leader.</p>
-<p>After the first few weeks, we’ll begin working in smaller teams to define and develop analysis around specific questions. We’ll need to quickly develop a better understanding of the state court system and processes. We’ll need to understand the data we have, consider its provenance, and evaluate its limitations. There will be no right answers, and we don’t have predetermined outcomes. So it’s just like real-life data science work - embrace the ambiguity!</p>
-<div id="r-rstudio-and-rstudio-cloud" class="section level3">
-<h3>R, RStudio, and RStudio Cloud</h3>
-<p>We will be using the programming language R for our data work. R is a free, open-source language (😄) most commonly used with RStudio, a free user interface (❤️). R users are an amazing bunch and have generated a variety of free learning resources on which we’ll rely (🎉).</p>
-<p>For our work together, we’ll be using RStudio Cloud. This will provide us a common space to share projects and data and it means you don’t have to install anything on your computer. You’ll need to sign up for a free <a href="https://rstudio.cloud/plans/free">RStudio Cloud Free</a> plan, which will provide you with a private workspace. I’ll share a link for you to join our class space.</p>
+<div id="materials" class="section level2">
+<h2>Materials</h2>
+<p>All of the materials for our course are available for free.</p>
+<ul>
+<li>R is a free, open-source language (😄); RStudio is available for free (❤️); R users are an amazing bunch and have generated a variety of free learning resources on which we’ll rely (🎉).
+<ul>
+<li><a href="../install/">Instructions for installing R, RStudio, and all the tidyverse packages</a></li>
+</ul></li>
+<li>The only non-free resource is available to you as an e-book through the UVA Library (Yay for libraries!).</li>
+</ul>
+<div style="text-align:center;">
+<img src="https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy.gif" width="150">
 </div>
-<div id="materials" class="section level3">
-<h3>Materials</h3>
-<p>As part of our ethic, we’ll center free resources and materials licensed by the library for our use. Consequently, all reading materials will be available for free. Data practice resources and references are online; readings on data ethics and power along with material on courts, criminal, and civil case analysis will be made available on Perusall or our class slack (though many of these are also available online).</p>
 </div>
-<div id="getting-help-and-the-class-slack" class="section level3">
-<h3>Getting Help and the Class Slack</h3>
+<div id="getting-help-and-the-class-slack" class="section level2">
+<h2>Getting Help and the Class Slack</h2>
 <p>Computers are stupid which can make programming hard. Any little error – a small typo, a missed closing parentheses – can cause inordinate pain (especially if you’re tired). Some of that is unavaoidable when learning a new language. But don’t beat your head against the wall when you get stuck. Seek help!</p>
 <p>There are many online resources. Two of the most useful are <a href="https://stackoverflow.com/">StackOverflow</a> (a Q&amp;A site with hundreds of thousands of answers to all sorts of programming questions) and <a href="https://community.rstudio.com/">RStudio Community</a> (a forum specifically designed for people using RStudio).</p>
 <p>The UVA Library also an amazing team of consultants in the <a href="https://data.library.virginia.edu/statlab/">StatLab</a>. They’ve got online how-tos you might find useful (including this one on <a href="https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/">how to ask reproducible questions on StackOverflow or the RStudio Community</a>) and you can email them at <a href="mailto:statlab@virginia.edu">statlab@virginia.edu</a> to set up a consultation (you shouldn’t use them for your problem sets, but they’re a great resource if you’re looking for help on the final visualization or after our class is done).</p>
 <p>Additionally, we have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. You’re encouraged to do both and you should check the slack regularly. It will be our primary means of communication. If you have questions, someone else probably does too, so slack will help us share knowledge widely. You’ll likely be able to answer others’ questions, and you should! That’s part of our collaborative learning.</p>
 </div>
-</div>
-<div id="evaluation-of-our-work" class="section level2">
-<h2>Evaluation of Our Work</h2>
-<p>Grades will depend on your learning and contribution to our collective effort, which will be assessed by a combination of individual work and team-based work.</p>
-<div id="reading-annotations-20" class="section level3">
-<h3>Reading Annotations, 20%</h3>
-<p>To facilitate understanding and discussion we’ll all contribute to collaborative annotation and commenting on the reading using Perusall. I will review these ahead of class to help organize our discussion.</p>
-<p>We have reading assigned on 9 out of 13 weeks (minus the first week). Contributing annotations to readings for at least 6 weeks is necessary for full credit. Make at least four full contributions for a given day’s reading.</p>
-<p>A full contribution will go beyond agreeing with a point or asking a question. It will engage a point, connect it to other ideas we might learn from, amend it to suggest a more limited or wider scope, note conditions under which it is more or less relevant, ponder how it might inform your project or other work of which you are aware, ask a question and provide an initial answer. If others have already commented on a passage and you want to address and elaborate on the initial comment (beyond basic agreement), you should. Think about the kinds of things you might raise in a discussion and bring them up in the annotations.</p>
-</div>
-<div id="individual-datar-assignments-20" class="section level3">
-<h3>Individual Data/R Assignments, 20%</h3>
-<p>In the first four weeks, individuals will complete assignments to become more comfortable using R and to learn about the court data. If you get stuck, feel free to ask for help on slack so that the learning can be shared. If you’re able to answer others’ questions, you should; it’s a great chance to deepen your own understanding by explaining ideas.</p>
-</div>
-<div id="midterm-exam-10" class="section level3">
-<h3>Midterm exam, 10%</h3>
-<p>We’ll have one exam focused on the data ethics readings and it’s application to your primary research questions. This is really an opportunity to revisit and synthesize the ideas we’ve been reading and reflect on what they might suggest for the question your team is exploring.</p>
-</div>
-<div id="team-assignments-40" class="section level3">
-<h3>Team Assignments, 40%</h3>
-<p>In the last two-thirds of the class, we’ll begin working in groups to complete data analysis and stories centered on selected questions. Once teams have been formed, I expect groups to meet each week between class to work together (via zoom, through chat in slack or a preferred platform). In addition, each team will meet with me at least once along the way.</p>
-<p>Team work will include</p>
-<ul>
-<li>Data work, 15%: Each team will take on responsibility for a different research question, exploring the relevant parts of the data set, setting up the data to address those questions, creating visuals and comparisons, possibly implementing models and results. Each group will submit four updates reporting on their progress and showing their work to date (March 2, March 23, April 13, April 20). Based on that progress, we’ll collectively determine the next steps. Though I have something of an outline in my head of where I imagine we’ll be from week to week, applied research and data analysis often refuses to conform to planned timelines. In part, that’s what makes it exciting, but I know that can be uncomfortable for some, so I want to be upfront that the project will require some flexibility on all our parts.</li>
-<li>Literature synthesis, 10%: Each team will dive further into research and literature relevant to their question, first identifying three articles or reports that will help you make sense of your question (March 16), followed by a written synthesis of these sources (March 30).</li>
-<li>Presentation, Final Analysis and Documentation, 15%: Each team will complete a report of their work, as a Rmarkdown and knitted html files, suitable for inclusion in the Court Data platform page. This should, at a minimum, outline the key question they’ve been addressing and how the literature intersects with the questions, communicate their process and highlight concerns and caveats, and explain their findings in an a way accessible to a broader community.</li>
-</ul>
-</div>
-<div id="collaborative-learning-10" class="section level3">
-<h3>Collaborative Learning, 10%</h3>
-<p>Learning new things is tough. Supportive colleagues can make it easier. For this reason, you will be evaluated based on the extent to which you help each other learn through our discussions, our team practice, and our class slack.</p>
-<p>In addition, once we begin submitting team assignments, each group will provide feedback in response to another group’s progress reports, sharing ideas, making suggestions, identifying elements that need more clarification or thought, and proposing additional steps.</p>
-</div>
-</div>
-<div id="pre-class-tasks" class="section level2">
-<h2>Pre-Class Tasks</h2>
-<p>Once you have read through this syllabus and have an <a href="https://rstudio.cloud/plans/free">RStudio Cloud Free account</a>, email me at <a href="mailto:mclaibourn@virginia.edu">mclaibourn@virginia.edu</a> with</p>
+<div id="pandas" class="section level2">
+<h2>Pandas</h2>
+<p>Once you have read the syllabus and have R, RStudio, and the tidyverse set up on your computer (<a href="../install/">instructions for installing R, RStudio, and all the tidyverse packages</a>),<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> email me at <a href="mailto:mclaibourn@virginia.edu">mclaibourn@virginia.edu</a> with</p>
 <ol style="list-style-type: decimal">
 <li>Whichever answers below describe your prior relationship with R:
 <ul>
@@ -110,12 +57,18 @@ output:
 <li>I’ve written R code from scratch (e.g., without following a template)</li>
 <li>I’m comfortable doing basic data manipulation and analysis in R</li>
 <li>I’m comfortable doing advanced data manipulation and analysis in R</li>
-<li>I’m an R masteR and should probably be TA’ing this course</li>
+<li>I’m an R masteR and should probably be teaching this class</li>
 </ul></li>
-<li>An image or gif of an adorable animal. I think we’re all going to need a little cute animal therapy this semester, so let’s start now! Here’s one that reflects my current vibe…</li>
+<li>A picture of a panda</li>
 </ol>
 <div style="text-align:center;">
-<img src="https://media.giphy.com/media/bXdjYegbUX3b2/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="200">
 </div>
-<p>In response, I will invite you to the class slack!</p>
+<p>And I will invite you to the class slack!</p>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>If you’re struggling to get R, RStudio, and the tidyverse on your computer, you should email me and let me know.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
 </div>

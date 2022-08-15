@@ -1,4 +1,4 @@
-# LPPP 5559 (Public Interest) Data Ethics & Practice
+# LPPP 6500 Data Visualization (and wrangling) in R
 
-This is the repo for the website for the Spring 2022 LPPP 5559 Public Interest::Data Ethics & Practice course.
+This is the repo for the website for the Fall 2022 LPPP 6500 Data Viz in R class.
 
