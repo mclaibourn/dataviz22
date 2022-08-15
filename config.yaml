@@ -1,4 +1,4 @@
-baseURL: "https://datavis22.netlify.app/"
+baseURL: "https://dataviz22.mclaibourn.org/"
 languageCode: en-us
 title: "Data Visualization in R"
 theme: mediumish-gohugo-theme
@@ -11,7 +11,7 @@ params:
   author:
     name: "Professor: Michele Claibourn"
     description: "(Director of Equitable Analysis, UVA Equity Center)"
-    thumbnail: images/webimage.png
+    thumbnail: images/webimage_small.png
   index:
     alertbar: no
     mdtext: |
