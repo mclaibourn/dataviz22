@@ -33,7 +33,8 @@ All of the materials for our course are available for free.
 
 * R is a free, open-source language (`r emo::ji("smile")`); RStudio is available for free (`r emo::ji("heart")`); R users are an amazing bunch and have generated a variety of free learning resources on which we’ll rely (`r emo::ji("tada")`). 
   - [Instructions for installing R, RStudio, and all the tidyverse packages](../install/)
-* The only non-free resource is available to you as an e-book through the UVA Library (Yay for libraries!). 
+
+* The reading materials are either publicy available or made available to us as ebooks through the UVA Library (Yay for libraries!). 
 
 <div style="text-align:center;"><img src="https://media.giphy.com/media/dB6ogWRDUsMKuAWrqi/giphy.gif" width="150"></div>
 
@@ -42,11 +43,11 @@ All of the materials for our course are available for free.
 
 Computers are stupid which can make programming hard. Any little error -- a small typo, a missed closing parentheses -- can cause inordinate pain (especially if you're tired). Some of that is unavaoidable when learning a new language. But don't beat your head against the wall when you get stuck. Seek help!
 
-There are many online resources. Two of the most useful are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio).
+There are many online resources, including the links to the *Reference Reading* on the syllabus. And we have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. You're encouraged to do both and you should check the slack regularly. It will be our primary means of communication. If you have questions, someone else probably does too, so slack will help us share knowledge widely. You'll likely be able to answer others' questions, and you should! That's part of our collaborative learning.
 
-The UVA Library also an amazing team of consultants in the [StatLab](https://data.library.virginia.edu/statlab/). They've got online how-tos you might find useful (including this one on [how to ask reproducible questions on StackOverflow or the RStudio Community](https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/)) and you can email them at [statlab@virginia.edu](mailto:statlab@virginia.edu) to set up a consultation (you shouldn't use them for your problem sets, but they're a great resource if you're looking for help on the final visualization or after our class is done).
+In addition, two useful online resources in which to search for answers to are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio).
 
-Additionally, we have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. You're encouraged to do both and you should check the slack regularly. It will be our primary means of communication. If you have questions, someone else probably does too, so slack will help us share knowledge widely. You'll likely be able to answer others' questions, and you should! That's part of our collaborative learning.
+The UVA Library also an amazing team of consultants in the [StatLab](https://data.library.virginia.edu/statlab/). They've written online how-tos you might find useful (including this one on [how to ask reproducible questions on StackOverflow or the RStudio Community](https://data.library.virginia.edu/ask-better-code-questions-and-get-better-answers-with-reprex/)) and you can email them at [statlab@virginia.edu](mailto:statlab@virginia.edu) to set up a consultation (you shouldn't use them for your problem sets, but they're a great resource if you're looking for help on the final visualization or after our class is done).
 
 ## Pandas
 
