@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 `r blogdown::shortcode("schedule")`
 
 
-Bring a laptop with R and RStudio installed!
+Bring a laptop with R and RStudio installed! [Instructions for installing R, RStudio, and all the tidyverse packages.](../install/)
 
 ## August 24
 Getting started with R/Rstudio, dplyr, and ggplot (oh my!)
