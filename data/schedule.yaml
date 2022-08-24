@@ -3,46 +3,48 @@ lessons:
 
   - title: "Getting Started"
     date: 2022-08-24
-    date_link: 
-    material: "august-24"
-    material_label: "Getting Started"
+    date_link: "week1notes"
+    read: "august-24"
+    read_label: "Getting Started"
+    material: "Week 1"
+    material_link: "week1_materials.zip"
  
   - title: "Principles and Distributions"
     date: 2022-08-31
     date_link: 
-    material: "august-31"
-    material_label: "Principles, Visualizing Distributions"
-    assignment: 
+    read: "august-31"
+    read_label: "Principles, Visualizing Distributions"
+    assignment: "ps1"
     assignment_label: "Problem Set 1"
 
   - title: "Color, Relationships, R Markdown"
     date: 2022-09-07 
     date_link: 
-    material: "september-7"
-    material_label: "Color, Relationships, R Markdown"
+    read: "september-7"
+    read_label: "Color, Relationships, R Markdown"
     assignment: 
     assignment_label: "Problem Set 2"
 
   - title: "Annotations, Space and Maps"
     date: 2022-09-14
     date_link: 
-    material: "september-14"
-    material_label: "Annotations, Space and Maps"
+    read: "september-14"
+    read_label: "Annotations, Space and Maps"
     assignment: " "
     assignment_label: "Problem Set 3"
 
   - title: "Presentations and Customization"
     date: 2022-09-21
     date_link: 
-    material: "september-21"
-    material_label: "Presentations and Customization"
+    read: "september-21"
+    read_label: "Presentations and Customization"
     assignment: " "
     assignment_label: "Problem Set 4"
 
   - title: "Final Projects Due"
     date: 2022-09-28
     date_link: 
-    material: "september-28"
-    material_label: "Submit Project"
+    read: "september-28"
+    read_label: "Submit Project"
     assignment: 
     assignment_label: "Final Projects Due"
