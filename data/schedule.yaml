@@ -14,6 +14,8 @@ lessons:
     date_link: 
     read: "august-31"
     read_label: "Principles, Visualizing Distributions"
+    material: 
+    material_link: 
     assignment: "ps1"
     assignment_label: "Problem Set 1"
 
@@ -22,7 +24,8 @@ lessons:
     date_link: 
     read: "september-7"
     read_label: "Color, Relationships, R Markdown"
-    assignment: 
+    material: 
+    material_link: 
     assignment_label: "Problem Set 2"
 
   - title: "Annotations, Space and Maps"
@@ -30,7 +33,8 @@ lessons:
     date_link: 
     read: "september-14"
     read_label: "Annotations, Space and Maps"
-    assignment: " "
+    material: 
+    material_link: 
     assignment_label: "Problem Set 3"
 
   - title: "Presentations and Customization"
@@ -38,7 +42,8 @@ lessons:
     date_link: 
     read: "september-21"
     read_label: "Presentations and Customization"
-    assignment: " "
+    material: 
+    material_link: 
     assignment_label: "Problem Set 4"
 
   - title: "Final Projects Due"
@@ -46,5 +51,4 @@ lessons:
     date_link: 
     read: "september-28"
     read_label: "Submit Project"
-    assignment: 
     assignment_label: "Final Projects Due"
