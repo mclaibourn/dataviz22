@@ -24,13 +24,14 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Data.gov](https://www.data.gov/), home of the U.S. Government’s open data
 * [CDC Wonder](https://wonder.cdc.gov/), public health-related data
 * [FBI Crime data explorer](https://crime-data-explorer.app.cloud.gov/pages/home), for criminal, noncriminal, law enforcement data 
+* [Stanford Open Policing Project](https://openpolicing.stanford.edu/), a collection of traffic stop datasets from across the country
 * [Small Business Adminsitration's PPP data](https://www.sba.gov/funding-programs/loans/covid-19-relief-options/paycheck-protection-program/ppp-data)
 * [World Bank](https://data.worldbank.org/), open access to global development data
 * [US City Open Data Census](http://us-cities.survey.okfn.org/), the Sunlight Foundation and Code for America collects data on city open data portals throughout the U.S.
 * [Charlottesville Open Data Portal](https://opendata.charlottesville.org/)
+* [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
 * [Data is Plural](https://www.data-is-plural.com/), Jeremy Singer-Vine's weekly newsletter of useful/curious datasets
 * [Erik Gahner’s list of political science datasets](https://github.com/erikgahner/PolData), a huge list of useful datasets, divided by topic (governance, elections, policy, political elites, etc.).
-* [Urban Institute's Data Catalog](https://datacatalog.urban.org/search/type/dataset)
 * [Google Dataset Search](https://datasetsearch.research.google.com/), search for thousands of public data sets indexed by Google.
 * [Kaggle Datasets](https://www.kaggle.com/datasets), datasets hosted for various data science competitions over the years
 * So many sources... <div style="text-align:right;"><img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="200" style="display: inline-block; margin: 0"></div>
