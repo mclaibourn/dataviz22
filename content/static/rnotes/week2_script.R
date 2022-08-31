@@ -95,6 +95,7 @@ property %>%
 # ..................................................
 # Distributions ----
 
+
 p <- ggplot(property, aes(x = totalvalue))
 
 p + geom_histogram()
@@ -158,8 +159,7 @@ property %>%
          finsqft < 10000) %>% 
   
   ggplot(aes(x = hsdistrict, y = finsqft, color = hsdistrict)) +
-  geom_violin() +
-  geom_sina(shape = ".", alpha = 1/10) + 
+  geom_sina() + 
   scale_color_manual(
     values = c("red", "gold", "blue"),
     guide = "none"
