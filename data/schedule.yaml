@@ -11,11 +11,11 @@ lessons:
  
   - title: "Principles and Distributions"
     date: 2022-08-31
-    date_link: 
+    date_link: "week2notes"
     read: "august-31"
     read_label: "Principles, Visualizing Distributions"
-    material: 
-    material_link: 
+    material: "Week 2"
+    material_link: "week2_script.R"
     assignment: "ps1"
     assignment_label: "Problem Set 1"
 
@@ -26,6 +26,7 @@ lessons:
     read_label: "Color, Relationships, R Markdown"
     material: 
     material_link: 
+    assignment: "ps2"
     assignment_label: "Problem Set 2"
 
   - title: "Annotations, Space and Maps"
@@ -51,4 +52,4 @@ lessons:
     date_link: 
     read: "september-28"
     read_label: "Submit Project"
-    assignment_label: "Final Projects Due"
+    assignment_label: "Final Projects"
