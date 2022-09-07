@@ -21,11 +21,11 @@ lessons:
 
   - title: "Color, Relationships, R Markdown"
     date: 2022-09-07 
-    date_link: 
+    date_link: "week3notes"
     read: "september-7"
     read_label: "Color, Relationships, R Markdown"
-    material: 
-    material_link: 
+    material: "Week 3"
+    material_link: "week3_materials.zip"
     assignment: "ps2"
     assignment_label: "Problem Set 2"
 

@@ -48,7 +48,7 @@ Visualization principles; visualizing counts, proportions, and distributions
 
 
 ## September 7
-Using color; tidy data; joining data; visualizing relationships; R markdown and communication
+Using color; tidy data - separate/unite, joins; visualizing amounts, proportions, relationships; R markdown and communication
 
 *Key Reading*
 
@@ -61,7 +61,7 @@ Using color; tidy data; joining data; visualizing relationships; R markdown and 
 * Hadley Wickham and Garrett Grolemund. 2017. R for Data science. O’Reilly. [Chapter 13](https://r4ds.had.co.nz/relational-data.html), [Chapter 27](https://r4ds.had.co.nz/r-markdown.html), [Chapter 29](https://r4ds.had.co.nz/r-markdown-formats.html)
 
 ## September 14
-Annotating and combining figures, Space and maps
+Tidy data - pivots/reshape; space and maps
 
 *Key Reading*
 
@@ -76,7 +76,7 @@ Annotating and combining figures, Space and maps
 
 
 ## September 21
-Peer presentations! Enhancing and customizing visuals
+Peer presentations! Annotating and combining figures, enhancing and customizing visuals
 
 *Key Reading*
 
