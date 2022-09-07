@@ -36,6 +36,7 @@ lessons:
     read_label: "Annotations, Space and Maps"
     material: 
     material_link: 
+    assignment: "ps3"
     assignment_label: "Problem Set 3"
 
   - title: "Presentations and Customization"
