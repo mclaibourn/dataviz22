@@ -201,7 +201,7 @@ soccap &lt;- soccap %&gt;%
 <ol start="2" style="list-style-type: decimal">
 <li><p>Choose any state you’d like (this is where the state fips codes are useful) and make a smaller dataset for just that state. Here’s a <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696">list of state fips codes</a>.</p></li>
 <li><p>Pick one of the social capital variables listed above and visualize the distribution of that variable across the counties in you chosen state. What county exhibits the highest social capital based on this measure?</p></li>
-<li><p>Create a scatterplot of two of the measures of social capital and map the population to point size (e.g., a bubble chart).</p></li>
+<li><p>Create a scatterplot of two of the measures of social capital and map the population to point size (e.g., a bubble chart). What does it suggest about these types of social capital in the state?</p></li>
 <li><p>Download the county shapefile for your chosen state using <code>tigris</code>; it should look something like</p></li>
 </ol>
 <pre class="r"><code># for Virginia
@@ -209,8 +209,9 @@ va_counties &lt;- counties(state = &quot;51&quot;, cb = TRUE) </code></pre>
 <ol start="6" style="list-style-type: decimal">
 <li><p>Join the dataset containing your chosen state’s measures to this county shapefile (you’ll want to list the <code>sf</code> object - the shapefile - first in the join command to retain the <code>sf</code> class in the resulting data object).</p></li>
 <li><p>Create a choropleth map of a key measure of social capital in your chosen state allowing the measure to vary continuously.</p></li>
-<li><p>Create a second choropleth map of the same key measure in your chose state, this time creating bins for the measure.</p></li>
+<li><p>Create a second choropleth map of the same key measure in your chose state, this time creating bins for the measure. Do the two versions lead you to similar interpretations or does one seem more useful in this context?</p></li>
 </ol>
+<p>Submit your completed .Rmd file to me via slack!</p>
 </div>
 <div id="your-data" class="section level3">
 <h3>Your Data</h3>
