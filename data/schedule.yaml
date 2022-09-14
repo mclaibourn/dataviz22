@@ -29,17 +29,17 @@ lessons:
     assignment: "ps2"
     assignment_label: "Problem Set 2"
 
-  - title: "Annotations, Space and Maps"
+  - title: "Tidy Data, Space and Maps"
     date: 2022-09-14
-    date_link: 
+    date_link: "week4notes"
     read: "september-14"
     read_label: "Annotations, Space and Maps"
-    material: 
-    material_link: 
+    material: "Week 4"
+    material_link: "week4_materials.zip"
     assignment: "ps3"
     assignment_label: "Problem Set 3"
 
-  - title: "Presentations and Customization"
+  - title: "Presentations, Annotations, Customization"
     date: 2022-09-21
     date_link: 
     read: "september-21"
