@@ -46,6 +46,7 @@ lessons:
     read_label: "Presentations and Customization"
     material: 
     material_link: 
+    assignment: "ps4"
     assignment_label: "Problem Set 4"
 
   - title: "Final Projects Due"
