@@ -41,11 +41,11 @@ lessons:
 
   - title: "Presentations, Annotations, Customization"
     date: 2022-09-21
-    date_link: 
+    date_link: "week5notes"
     read: "september-21"
     read_label: "Presentations and Customization"
-    material: 
-    material_link: 
+    material: "Week 5"
+    material_link: "week5_materials.zip"
     assignment: "ps4"
     assignment_label: "Problem Set 4"
 
