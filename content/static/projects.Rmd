@@ -4,7 +4,9 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 A gallery of the final visualization projects created by the class!
+
+* [A Decade of UFO Sightings](../projects/Barber_FinalUFO/), Chris Barber
