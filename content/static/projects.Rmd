@@ -14,3 +14,4 @@ A gallery of the final visualization projects created by the class!
 * [Data Exploration: Food Insecurity in Africa](../projects/PARKS_FinalProject/), Kaitlyn Parks
 * [COVID-19 Cases, Hospitalizations, and Deaths Across Race](../projects/williams_finalproject/), Jia Williams
 * [Visualizing Hate Crimes](../projects/Boccher_Final_Project/), Brandon Boccher
+* [Gender Pay Gaps](../projects/Binoy_project/), Amruta Binoy
